@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ Introduction
 
 The general stress response and sporulation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_genera_stress)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#The_genera_stress" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Eichenberger, P., M. Fujita, S. T. Jensen, E. M. Conlon, D. Z. Rudner, S. T. Wan
 
 Evolution of the general stress response and sporulation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Evolution_of_the_general)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Evolution_of_the_general" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Veening, J. W., E. J. Stewart, T. W. Berngruber, F. Taddei, O. P. Kuipers, and L
 
 Protein-protein interactions: Two-component systems
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Protein-protein)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Protein-protein" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Skerker, J. M., B. S. Perchuk, A. Siryaporn, E. A. Lubin, O. Ashenberg, M. Gouli
 
 sRNAs: Regulating translation mRNA of RpoS (the general stress response activator)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#sRNAs:_Regulating)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#sRNAs:_Regulating" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Repoila, F., and S. Gottesman. "[Signal Transduction Cascade for Regulation of R
 
 Small molecules: The stringent response
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Small_molecules)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Small_molecules" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Kvint, K., A. Farewell, and T. Nyström. "[RpoS-Dependent Promoters Require Guan
 
 Field trip to the [Laub laboratory](http://laublab.mit.edu/)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Field_Trip_to_the_Laub)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Field_Trip_to_the_Laub" %}}
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ Field trip to the [Laub laboratory](http://laublab.mit.edu/)
 
 Pumping out toxins: Antibiotics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Pumping)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Pumping" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Tikhonova, E. B., and H. I. Zgurskaya. "[AcrA, AcrB, and TolC of Escherichia col
 
 Scavenging toxins: Reactive oxidative species
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Scavenging_toxins)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Scavenging_toxins" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Greenberg, J. T., P. Monach, J. H. Chou, P. D. Josephy, and B. Demple. "[Positiv
 
 Promoting tolerance: Extreme heat and cold
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Promoting_Tolerance)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Promoting_Tolerance" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Guisbert, E., C. Herman, C. Z. Lu, and C. A. Gross. "[A Chaperone Network Contro
 
 Final oral presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Final_Oral_Presentations)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Final_Oral_Presentations" %}}
 
 
 {{< tdclose >}}
@@ -310,7 +312,7 @@ Final oral presentations
 
 Repair calls: Single-stranded DNA damage
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Repair_calls)
+{{% resource_link 84e19285-a040-ddae-7544-f37d6f0ee06e "See the Lecture Summary" "#Repair_calls" %}}
 
 
 {{< tdclose >}}
