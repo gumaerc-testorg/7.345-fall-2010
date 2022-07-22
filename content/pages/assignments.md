@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the weekly assignments, midterm
+  written assignment, and final oral presentation assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0b8661a6-0edf-c7fa-4967-f38c166c13f7
 ---

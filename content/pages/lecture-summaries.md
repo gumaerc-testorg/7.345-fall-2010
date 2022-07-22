@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and summaries of
+  each lecture.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 84e19285-a040-ddae-7544-f37d6f0ee06e
 ---
@@ -124,7 +129,7 @@ One of the most common ways in which microbes deal with toxic substrates (includ
 {{< anchor "Scavenging_toxins" >}}{{< /anchor >}}Scavenging toxins: Reactive oxidative species
 {{< tdclose >}}
 {{< tdopen >}}
-Oxidative stress is common under aerobic conditions and can cause dramatic damage to DNA, protein and lipids. It can be so toxic that many hosts use oxidative stress as a strategy to fight pathogens. Since reactive oxygen species are not compounds that can be easily selected and pumped out, microbes have evolved superoxide dimutases to scavenge the reactive species. These enzymes catalyze the conversion of superoxide (the reactive O2− anion that is a byproduct of cellular respiration and produced by host phagocytes) into oxygen and hydrogen peroxide. The first paper shows how the effects of superoxide are diminished in the presence of superoxide dimutases enzymes. The second paper shows how the regulator of this antioxidant response was discovered.
+Oxidative stress is common under aerobic conditions and can cause dramatic damage to DNA, protein and lipids. It can be so toxic that many hosts use oxidative stress as a strategy to fight pathogens. Since reactive oxygen species are not compounds that can be easily selected and pumped out, microbes have evolved superoxide dimutases to scavenge the reactive species. These enzymes catalyze the conversion of superoxide (the reactive O{{< sub "2" >}}{{< sup "−" >}} anion that is a byproduct of cellular respiration and produced by host phagocytes) into oxygen and hydrogen peroxide. The first paper shows how the effects of superoxide are diminished in the presence of superoxide dimutases enzymes. The second paper shows how the regulator of this antioxidant response was discovered.
 {{< tdclose >}}
 
 {{< trclose >}}
