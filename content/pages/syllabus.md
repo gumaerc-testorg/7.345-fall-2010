@@ -160,7 +160,7 @@ Small molecules: The stringent response
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Laub laboratory](http://laublab.mit.edu/)
+Field trip to the {{% resource_link "4f86da10-8c23-44dd-b043-f0e1ee1a9420" "Laub laboratory" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Written Assignments due

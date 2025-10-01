@@ -102,7 +102,7 @@ Small molecules can also be used in signaling processes to sense stress and enac
 7
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Field_Trip_to_the_Laub" >}}{{< /anchor >}}Field trip to the [Laub laboratory](http://laublab.mit.edu/)
+{{< anchor "Field_Trip_to_the_Laub" >}}{{< /anchor >}}Field trip to the {{% resource_link "4f86da10-8c23-44dd-b043-f0e1ee1a9420" "Laub laboratory" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Written assignments are due this week. In lieu of reading and discussing papers, we will visit a microbiology laboratory (the Laub laboratory). There we will observe the behavior of several types of bacteria under the microscope, with an eye to how their morphology changes upon stress conditions. We will also examine the colony morphologies and other phenotypes of different microbes on Petri plates under stress conditions.
